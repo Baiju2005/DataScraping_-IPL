@@ -13,4 +13,4 @@ Selenium
 
 >> Libraries Used
 pandas (for data manipulation)
-matplotlib and seaborn (for data visualization)
+matplotlib and seaborn (for data visualization) Now working on Power BI for visualization
