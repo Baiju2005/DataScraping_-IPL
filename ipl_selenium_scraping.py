@@ -84,7 +84,7 @@ data
 
 data.to_csv("IPL_2024.csv")
 
-"""# **EDA & Visualization**"""
+"""# **EDA & Visualization using libraries **"""
 
 import matplotlib.pyplot as plt
 import seaborn as sns
